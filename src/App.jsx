@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Krishna Vig",
-  title: "Web Developer",
+  title: "Full Stack Web Developer & UI/UX Designer",
   email: "Krishna.Vig@studentambassadors.com",
   gitHub: "vigkrishna",
   instagram: "vigkrishna",
