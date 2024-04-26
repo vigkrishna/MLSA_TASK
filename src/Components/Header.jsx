@@ -13,7 +13,7 @@ const Header = () => {
         position: "fixed",
         display: "flex",
         justifyContent: "center",
-        gap: "2rem",
+        gap: "2.2rem",
         background: "rgba(255,255,255,0.75)",
         padding: "1rem",
         top: 0,
